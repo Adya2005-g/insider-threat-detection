@@ -1,7 +1,7 @@
 Flask
+Flask-SQLAlchemy
 pandas
 numpy
 scikit-learn
 joblib
 gunicorn
-SQLAlchemy
